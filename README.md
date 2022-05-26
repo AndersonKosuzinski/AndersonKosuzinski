@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming study
 - 🌱 I’m currently learning java language through platforms like Alura and Udemy
 - 💞️ I’m looking to collaborate on activities from different areas of programming
-- 📫 How to reach me: kosuzinski@icloud.com || andersonkosuzinski9@gmail.com || https://www.linkedin.com/in/anderson-kosuzinski-da-silva-4b914023b/ ||
+- 📫 How to reach me: kosuzinski@icloud.com || andersonkosuzinski9@gmail.com || www.linkedin.com/in/anderson-kosuzinski ||
 
 <!---
 AndersonKosuzinski/AndersonKosuzinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
